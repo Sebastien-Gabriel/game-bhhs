@@ -5,5 +5,3 @@
 gawk gawkk
 
 ghjgyjtuj
-
-
