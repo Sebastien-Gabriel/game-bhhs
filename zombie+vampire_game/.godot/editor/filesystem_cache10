@@ -1,5 +1,15 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1747958579
-character_body_2d.tscn::PackedScene::5001019669291592087::1747364625::0::1::::<><><>0<>0<><>::uid://bldvpso7vqiq8::::res://icon.svg
+::res://::1748312853
+character_body_2d.tscn::PackedScene/PackedScene::5001019669291592087::1747364625::0::1::::<><><>0<>0<><>::uid://bldvpso7vqiq8::::res://icon.svg
 icon.svg::CompressedTexture2D/CompressedTexture2D::3165993909260505521::1747361831::1747361842::1::::<><><>0<>0<>e8bb3e8d67eccaa83e80feacb7dbf576<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-node_2d.tscn::PackedScene::3132959051592364328::1747364628::0::1::::<><><>0<>0<><>::
+node_2d.tscn::PackedScene/PackedScene::3132959051592364328::1747960399::0::1::::<><><>0<>0<><>::
+::res://Assets/::1748312304
+::res://Assets/Sprites/::1748312853
+New Piskel-1.png.png::CompressedTexture2D/CompressedTexture2D::4518609581646831682::1747362970::1748312809::1::::<><><>0<>0<>b74b70c7f419df7daf3914c6fb9d0e9a<>res://.godot/imported/New Piskel-1.png.png-e5e6a61cab5f7af1449f36c453bdc2c7.ctex::
+Screenshot 2025-05-13 123631.png::CompressedTexture2D/CompressedTexture2D::301231583173398172::1747103793::1748312809::1::::<><><>0<>0<>e345f05a7c8a9208ddb79772539cbff3<>res://.godot/imported/Screenshot 2025-05-13 123631.png-3658e6ed28e23f349cb0b3f31b1e8627.ctex::
+Screenshot 2025-05-13 124741.png::CompressedTexture2D/CompressedTexture2D::6284291300081268625::1747104461::1748312809::1::::<><><>0<>0<>9567679f0b87bf88eda915d31b7f0a0c<>res://.godot/imported/Screenshot 2025-05-13 124741.png-90bc9f14d8c19a97f10a520ac5ba4073.ctex::
+Screenshot 2025-05-13 124920.png::CompressedTexture2D/CompressedTexture2D::6274031127311102863::1747104560::1748312809::1::::<><><>0<>0<>ce256fdd8a2861c51be3498499f13c37<>res://.godot/imported/Screenshot 2025-05-13 124920.png-4d5ac3f422bc195f972b6ef21ea298e0.ctex::
+Screenshot 2025-05-15 142458.png::CompressedTexture2D/CompressedTexture2D::4933642932209588889::1747283099::1748312809::1::::<><><>0<>0<>6dc94f66991fbe569390257ee6c6032f<>res://.godot/imported/Screenshot 2025-05-15 142458.png-56144045b5d2d8b40375cfb2db28a294.ctex::
+spr_player_zombie.png::CompressedTexture2D::7979391018499147944::1747362965::1748312853::1::::<><><>0<>0<>66136088ef37e069b079250dbd429da7<>res://.godot/imported/spr_player_zombie.png-1ea16d63b88340d2697879b4dded758b.ctex::
+::res://Assets/Sprites/Sounds/::1748312662
+::res://Assets/Sprites/Sounds/Tilemap/::1748312341
