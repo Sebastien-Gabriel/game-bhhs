@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bk1dcgc6ypaab"
-path="res://.godot/imported/Screenshot 2025-05-13 123631.png-3658e6ed28e23f349cb0b3f31b1e8627.ctex"
+uid="uid://dlxjn0lp8ftwy"
+path="res://.godot/imported/spr_player_zombie.png-1ea16d63b88340d2697879b4dded758b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Screenshot 2025-05-13 123631.png"
-dest_files=["res://.godot/imported/Screenshot 2025-05-13 123631.png-3658e6ed28e23f349cb0b3f31b1e8627.ctex"]
+source_file="res://Assets/Sprites/spr_player_zombie.png"
+dest_files=["res://.godot/imported/spr_player_zombie.png-1ea16d63b88340d2697879b4dded758b.ctex"]
 
 [params]
 

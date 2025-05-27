@@ -1,3 +1,8 @@
-[gd_scene format=3 uid="uid://bkvvm317185w3"]
+[gd_scene load_steps=2 format=3 uid="uid://bkvvm317185w3"]
+
+[ext_resource type="PackedScene" uid="uid://cdiscff0smvc6" path="res://character_body_2d.tscn" id="1_wtcfe"]
 
 [node name="World" type="Node2D"]
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("1_wtcfe")]
+position = Vector2(221, 553)
