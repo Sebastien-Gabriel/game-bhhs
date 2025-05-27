@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://b5m33su6jilok"
+=======
+uid="uid://di3a10nvbv6u1"
+>>>>>>> acc3a3a376f5509991ba2b2e4c9ec200d6260cf9
 path="res://.godot/imported/New Piskel-1.png.png-e5e6a61cab5f7af1449f36c453bdc2c7.ctex"
 metadata={
 "vram_texture": false
