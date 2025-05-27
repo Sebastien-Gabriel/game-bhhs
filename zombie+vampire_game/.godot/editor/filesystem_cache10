@@ -1,15 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-<<<<<<< HEAD
-<<<<<<< HEAD
-::res://::1748312691
-character_body_2d.tscn::PackedScene::5001019669291592087::1748312131::0::1::::<><><>0<>0<><>::uid://bldvpso7vqiq8::::res://icon.svg
-icon.svg::CompressedTexture2D/CompressedTexture2D::3165993909260505521::1748312131::1748312711::1::::<><><>0<>0<>e8bb3e8d67eccaa83e80feacb7dbf576<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-node_2d.tscn::PackedScene::3132959051592364328::1748312131::0::1::::<><><>0<>0<><>::
-=======
-::res://::1748313345
-character_body_2d.tscn::PackedScene/PackedScene::5001019669291592087::1747364625::0::1::::<><><>0<>0<><>::uid://bldvpso7vqiq8::::res://icon.svg
+::res://::1748314989
+character_body_2d.tscn::PackedScene::5001019669291592087::1748314868::0::1::::<><><>0<>0<><>::uid://dlxjn0lp8ftwy::::res://Assets/Sprites/spr_player_zombie.png
 icon.svg::CompressedTexture2D/CompressedTexture2D::3165993909260505521::1747361831::1747361842::1::::<><><>0<>0<>e8bb3e8d67eccaa83e80feacb7dbf576<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-node_2d.tscn::PackedScene/PackedScene::3132959051592364328::1747960399::0::1::::<><><>0<>0<><>::
+movement.gd::GDScript::832881637019661602::1748314578::0::1::::<>CharacterBody2D<><>0<>0<><>::
+node_2d.tscn::PackedScene::3132959051592364328::1748314449::0::1::::<><><>0<>0<><>::uid://cdiscff0smvc6::::res://character_body_2d.tscn
 ::res://Assets/::1748312304
 ::res://Assets/Sprites/::1748313128
 New Piskel-1.png.png::CompressedTexture2D/CompressedTexture2D::5602507311651790256::1747362970::1748313127::1::::<><><>0<>0<>19340ed1cdb46fda2416738916d60bb3<>res://.godot/imported/New Piskel-1.png.png-e5e6a61cab5f7af1449f36c453bdc2c7.ctex::
@@ -20,18 +14,3 @@ Screenshot 2025-05-15 142458.png::CompressedTexture2D/CompressedTexture2D::87763
 spr_player_zombie.png::CompressedTexture2D/CompressedTexture2D::7979391018499147944::1747362965::1748312853::1::::<><><>0<>0<>66136088ef37e069b079250dbd429da7<>res://.godot/imported/spr_player_zombie.png-1ea16d63b88340d2697879b4dded758b.ctex::
 ::res://Assets/Sprites/Sounds/::1748312662
 ::res://Assets/Sprites/Sounds/Tilemap/::1748312341
->>>>>>> 252a699b5b74baad1bbae95fc1a2e927ddd23d3a
-=======
-::res://::1748314408
-character_body_2d.tscn::PackedScene::5001019669291592087::1748314376::0::1::::<><><>0<>0<><>::uid://dlxjn0lp8ftwy::::res://Assets/Sprites/spr_player_zombie.png
-icon.svg::CompressedTexture2D/CompressedTexture2D::3165993909260505521::1747960794::1748312027::1::::<><><>0<>0<>e8bb3e8d67eccaa83e80feacb7dbf576<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-node_2d.tscn::PackedScene::3132959051592364328::1748314376::0::1::::<><><>0<>0<><>::uid://cdiscff0smvc6::::res://character_body_2d.tscn
-::res://Assets/::1748312904
-::res://Assets/Sprites/::1748314376
-New Piskel-1.png.png::CompressedTexture2D/CompressedTexture2D::5602507311651790256::1748312904::1748314411::1::::<><><>0<>0<>19340ed1cdb46fda2416738916d60bb3<>res://.godot/imported/New Piskel-1.png.png-e5e6a61cab5f7af1449f36c453bdc2c7.ctex::
-Screenshot 2025-05-13 123631.png::CompressedTexture2D/CompressedTexture2D::3142168983915957721::1748312904::1748314411::1::::<><><>0<>0<>ad97b7234f7cdede1be77f5cf7e000ad<>res://.godot/imported/Screenshot 2025-05-13 123631.png-3658e6ed28e23f349cb0b3f31b1e8627.ctex::
-Screenshot 2025-05-13 124741.png::CompressedTexture2D/CompressedTexture2D::2345983985552129165::1748312904::1748314411::1::::<><><>0<>0<>5c199ae3692e39effe197d725a2f8d71<>res://.godot/imported/Screenshot 2025-05-13 124741.png-90bc9f14d8c19a97f10a520ac5ba4073.ctex::
-Screenshot 2025-05-13 124920.png::CompressedTexture2D/CompressedTexture2D::6145754207398672130::1748312904::1748314411::1::::<><><>0<>0<>90e28e71635ccbf85510f9eb562dc5f6<>res://.godot/imported/Screenshot 2025-05-13 124920.png-4d5ac3f422bc195f972b6ef21ea298e0.ctex::
-Screenshot 2025-05-15 142458.png::CompressedTexture2D/CompressedTexture2D::8776367731969143018::1748312904::1748314411::1::::<><><>0<>0<>7dac0814c0dc698b91705db775d539d5<>res://.godot/imported/Screenshot 2025-05-15 142458.png-56144045b5d2d8b40375cfb2db28a294.ctex::
-spr_player_zombie.png::CompressedTexture2D/CompressedTexture2D::7979391018499147944::1748314376::1748314411::1::::<><><>0<>0<>66136088ef37e069b079250dbd429da7<>res://.godot/imported/spr_player_zombie.png-1ea16d63b88340d2697879b4dded758b.ctex::
->>>>>>> e21df1a6af6d112d66608ad1bec2d502299f8e4d
