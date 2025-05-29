@@ -11,6 +11,6 @@ config_version=5
 [application]
 
 config/name="Zombie+Vampire_Game"
-run/main_scene="uid://bkvvm317185w3"
+run/main_scene="uid://bbdyyp4waipo0"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"

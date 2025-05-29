@@ -1,17 +1,18 @@
-[gd_scene load_steps=3 format=3 uid="uid://cdiscff0smvc6"]
+[gd_scene load_steps=3 format=3 uid="uid://bopg6fg7jdn3e"]
 
-[ext_resource type="Texture2D" uid="uid://dlxjn0lp8ftwy" path="res://Assets/Sprites/spr_player_zombie.png" id="1_f50pn"]
+[ext_resource type="Texture2D" uid="uid://cl25qhjsngh5y" path="res://Assets/Sprites/New Piskel-1.png.png" id="1_f50pn"]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_ij6vw"]
-size = Vector2(84, 150.5)
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_ij6vw"]
+radius = 43.0
+height = 156.0
 
 [node name="CharacterBody2D" type="CharacterBody2D"]
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(42, -74.75)
-shape = SubResource("RectangleShape2D_ij6vw")
-
 [node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(41, -71)
-scale = Vector2(1.86523, 2.5957)
+position = Vector2(51, -79)
+scale = Vector2(2.25, 3.03125)
 texture = ExtResource("1_f50pn")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(50, -83)
+shape = SubResource("CapsuleShape2D_ij6vw")

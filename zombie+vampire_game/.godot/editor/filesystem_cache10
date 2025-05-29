@@ -1,9 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1748314989
-character_body_2d.tscn::PackedScene::5001019669291592087::1748314868::0::1::::<><><>0<>0<><>::uid://dlxjn0lp8ftwy::::res://Assets/Sprites/spr_player_zombie.png
+::res://::1748425742
+character_body_2d.tscn::PackedScene::5001019669291592087::1748315060::0::1::::<><><>0<>0<><>::uid://dlxjn0lp8ftwy::::res://Assets/Sprites/spr_player_zombie.png
 icon.svg::CompressedTexture2D/CompressedTexture2D::3165993909260505521::1747361831::1747361842::1::::<><><>0<>0<>e8bb3e8d67eccaa83e80feacb7dbf576<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-movement.gd::GDScript::832881637019661602::1748314578::0::1::::<>CharacterBody2D<><>0<>0<><>::
-node_2d.tscn::PackedScene::3132959051592364328::1748314449::0::1::::<><><>0<>0<><>::uid://cdiscff0smvc6::::res://character_body_2d.tscn
+movement.gd::GDScript/GDScript::832881637019661602::1748314578::0::1::::<>CharacterBody2D<><>0<>0<><>::
+node_2d.tscn::PackedScene/PackedScene::3132959051592364328::1748314449::0::1::::<><><>0<>0<><>::uid://cdiscff0smvc6::::res://character_body_2d.tscn
 ::res://Assets/::1748312304
 ::res://Assets/Sprites/::1748313128
 New Piskel-1.png.png::CompressedTexture2D/CompressedTexture2D::5602507311651790256::1747362970::1748313127::1::::<><><>0<>0<>19340ed1cdb46fda2416738916d60bb3<>res://.godot/imported/New Piskel-1.png.png-e5e6a61cab5f7af1449f36c453bdc2c7.ctex::
