@@ -1,6 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1748590087
-Player_movement.gd::GDScript/GDScript::8327935228964378497::1748491931::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://::1748596559
 ::res://Assets/::1748590087
 ::res://Assets/Sounds/::1748492583
 ::res://Assets/Sprites/::1748492608
@@ -46,7 +45,8 @@ Pixel Art Forest.png::CompressedTexture2D/CompressedTexture2D::21052299022444249
 Pixel Art Plataformer Painted Style.png::CompressedTexture2D/CompressedTexture2D::3458271513189605201::1588030197::1748492562::1::::<><><>0<>0<>744d1f358e382b6fb69cfc306df6d1c1<>res://.godot/imported/Pixel Art Plataformer Painted Style.png-edbef183ab3cb212fe655bd46204e435.ctex::
 Pixel Art Runner.png::CompressedTexture2D/CompressedTexture2D::2202188037902856720::1588029419::1748492562::1::::<><><>0<>0<>40dbe52dbedc3e7ad1c1cbfc6fdc274e<>res://.godot/imported/Pixel Art Runner.png-81cc4d28fa4dea08941a4a40e532f64a.ctex::
 Pixel Art Snowy Forest.png::CompressedTexture2D/CompressedTexture2D::8421413541481411793::1588029865::1748492562::1::::<><><>0<>0<>609f03257d42dfd1de46dbfaf9e1a522<>res://.godot/imported/Pixel Art Snowy Forest.png-34fcafcc3eb42901071bd6d85fd4cbc7.ctex::
-::res://Scenes/::1748590087
-character_body_2d.tscn::PackedScene::3400450095855773336::1748590099::0::1::::<><><>0<>0<><>::uid://cl25qhjsngh5y::::res://Assets/Sprites/New Piskel-1.png.png<>uid://dqwd42h0ej2bl::::res://Player_movement.gd
-world.tscn::PackedScene::2464303561122917233::1748590087::0::1::::<><><>0<>0<><>::uid://dvjqy4ndhgabk::::res://Assets/Tilemaps/Final/Background_0.png<>uid://bopg6fg7jdn3e::::res://Scenes/character_body_2d.tscn<>uid://b6duoyew7kr8e::::res://Assets/Tilemaps/Final/Tiles.png
-::res://Scripts/::0
+::res://Scenes/::1748595552
+character_body_2d.tscn::PackedScene::3400450095855773336::1748590120::0::1::::<><><>0<>0<><>::uid://cl25qhjsngh5y::::res://Assets/Sprites/New Piskel-1.png.png<>uid://dqwd42h0ej2bl::::res://Scripts/Player_movement.gd
+world.tscn::PackedScene::2464303561122917233::1748595552::0::1::::<><><>0<>0<><>::uid://dvjqy4ndhgabk::::res://Assets/Tilemaps/Final/Background_0.png<>uid://bopg6fg7jdn3e::::res://Scenes/character_body_2d.tscn<>uid://b6duoyew7kr8e::::res://Assets/Tilemaps/Final/Tiles.png
+::res://Scripts/::1748590099
+Player_movement.gd::GDScript::8327935228964378497::1748491931::0::1::::<>CharacterBody2D<><>0<>0<><>::

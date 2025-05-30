@@ -3,8 +3,9 @@
 [ext_resource type="Texture2D" uid="uid://cl25qhjsngh5y" path="res://Assets/Sprites/New Piskel-1.png.png" id="1_f50pn"]
 [ext_resource type="Script" uid="uid://dqwd42h0ej2bl" path="res://Scripts/Player_movement.gd" id="1_ij6vw"]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_ij6vw"]
-size = Vector2(62, 115)
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_88kja"]
+radius = 20.0
+height = 108.0
 
 [node name="CharacterBody2D" type="CharacterBody2D"]
 script = ExtResource("1_ij6vw")
@@ -15,5 +16,5 @@ scale = Vector2(1.53125, 2.09375)
 texture = ExtResource("1_f50pn")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(32, -57.5)
-shape = SubResource("RectangleShape2D_ij6vw")
+position = Vector2(32, -55)
+shape = SubResource("CapsuleShape2D_88kja")
