@@ -1,7 +1,10 @@
-Node2D
+ParallaxBackground
+ParallaxLayer
+CanvasLayer
+Sprite2D
 TileMapLayer
+Node2D
 TileMap
 Camera2D
 CollisionShape2D
-Sprite2D
 CharacterBody2D
