@@ -1106,7 +1106,7 @@ sources/1 = SubResource("TileSetAtlasSource_k7acu")
 
 [node name="Player" parent="." instance=ExtResource("2_8j60k")]
 z_index = 10
-position = Vector2(18, 591)
+position = Vector2(19, 600)
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
 limit_left = 0
@@ -1144,6 +1144,7 @@ position = Vector2(-119, -95)
 scale = Vector2(1.75, 1.71514)
 texture = ExtResource("1_5a7ea")
 centered = false
+metadata/_edit_lock_ = true
 
 [node name="physical_layers" type="Node2D" parent="."]
 
@@ -1160,4 +1161,6 @@ tile_set = SubResource("TileSet_5v1tr")
 position = Vector2(935, 597)
 
 [node name="Light Lop" parent="Light Lops" instance=ExtResource("7_o06y3")]
-z_index = 10
+z_index = 9
+position = Vector2(-438, 2)
+script = null
