@@ -1,8 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1748596559
-::res://Assets/::1748590087
+::res://::1748679369
+::res://Assets/::1748679011
 ::res://Assets/Sounds/::1748492583
-::res://Assets/Sprites/::1748492608
+::res://Assets/Sprites/::1748679369
+Light Lop Spritesheet Idle.png::CompressedTexture2D/CompressedTexture2D::4555823198448215326::1748678584::1748679370::1::::<><><>0<>0<>be3516e20c5e1d50a4c792d4db6f4a2f<>res://.godot/imported/Light Lop Spritesheet Idle.png-c540844d00dfaeedc79586498aaeb540.ctex::
 New Piskel-1.png.png::CompressedTexture2D/CompressedTexture2D::5602507311651790256::1747362970::1748492608::1::::<><><>0<>0<>19340ed1cdb46fda2416738916d60bb3<>res://.godot/imported/New Piskel-1.png.png-e5e6a61cab5f7af1449f36c453bdc2c7.ctex::
 Screenshot 2025-05-13 123631.png::CompressedTexture2D/CompressedTexture2D::3142168983915957721::1747103793::1748492608::1::::<><><>0<>0<>ad97b7234f7cdede1be77f5cf7e000ad<>res://.godot/imported/Screenshot 2025-05-13 123631.png-3658e6ed28e23f349cb0b3f31b1e8627.ctex::
 Screenshot 2025-05-13 124741.png::CompressedTexture2D/CompressedTexture2D::2345983985552129165::1747104461::1748492608::1::::<><><>0<>0<>5c199ae3692e39effe197d725a2f8d71<>res://.godot/imported/Screenshot 2025-05-13 124741.png-90bc9f14d8c19a97f10a520ac5ba4073.ctex::
@@ -10,12 +11,13 @@ Screenshot 2025-05-13 124920.png::CompressedTexture2D/CompressedTexture2D::61457
 Screenshot 2025-05-15 142458.png::CompressedTexture2D/CompressedTexture2D::8776367731969143018::1747283099::1748492608::1::::<><><>0<>0<>7dac0814c0dc698b91705db775d539d5<>res://.godot/imported/Screenshot 2025-05-15 142458.png-56144045b5d2d8b40375cfb2db28a294.ctex::
 spr_player_zombie.png::CompressedTexture2D/CompressedTexture2D::7979391018499147944::1747362965::1748492608::1::::<><><>0<>0<>66136088ef37e069b079250dbd429da7<>res://.godot/imported/spr_player_zombie.png-1ea16d63b88340d2697879b4dded758b.ctex::
 ::res://Assets/Tilemaps/::1748492559
-::res://Assets/Tilemaps/Final/::1748590059
+::res://Assets/Tilemaps/Final/::1748678848
 Background_0.png::CompressedTexture2D/CompressedTexture2D::8652823041608010220::1569997150::1748492562::1::::<><><>0<>0<>66f4dd618ae1503874f616e4345eabc5<>res://.godot/imported/Background_0.png-02f0be72f895a35071ddd81d69a91517.ctex::
 Background_1.png::CompressedTexture2D/CompressedTexture2D::638967591135095929::1569997216::1748492562::1::::<><><>0<>0<>668776f3ff3a57fa5af8e341c09253ed<>res://.godot/imported/Background_1.png-6c9a7ae5a6758127c41f4dd1bc668431.ctex::
 brush.png::CompressedTexture2D/CompressedTexture2D::4223298785970206023::1569996768::1748492562::1::::<><><>0<>0<>ac6d01ec41801416503a97e14ddfcd96<>res://.godot/imported/brush.png-4321df45f55d7aa8b46493f801771e21.ctex::
 Grass_background_1.png::CompressedTexture2D/CompressedTexture2D::4230506083588999020::1569996958::1748492562::1::::<><><>0<>0<>001f41da4474fefdb724292647029706<>res://.godot/imported/Grass_background_1.png-6b17a2ed40c1b1536e0e7bd412b83d0c.ctex::
 Grass_background_2.png::CompressedTexture2D/CompressedTexture2D::3497799529971638406::1569997080::1748492562::1::::<><><>0<>0<>f84ba8983662fc69230561d014c0b27a<>res://.godot/imported/Grass_background_2.png-cf4e87e91572e7740cb300d0481720e5.ctex::
+Light Lop Spritesheet Idle.png::CompressedTexture2D/CompressedTexture2D::1331806357963777792::1748678848::1748678827::1::::<><><>0<>0<>bf6cec438832455b26ce00436df2715a<>res://.godot/imported/Light Lop Spritesheet Idle.png-5091d5ef49c119bf1e591b889db600a8.ctex::
 Salt.png::CompressedTexture2D/CompressedTexture2D::5921579506987737190::1569997104::1748492562::1::::<><><>0<>0<>cebd81cf3cda4b2a0d017207b550e63a<>res://.godot/imported/Salt.png-92614fea6635517d9a7b0fe4cf0506da.ctex::
 Tiles.png::CompressedTexture2D/CompressedTexture2D::4569708578486659130::1569998050::1748492562::1::::<><><>0<>0<>ed2c6c5157874bfd9b2b38fe2733749e<>res://.godot/imported/Tiles.png-a5a9ab5e88d279faa54715e0313218a0.ctex::
 ::res://Assets/Tilemaps/Free Pixel Art Forest/::1634587338
@@ -45,8 +47,9 @@ Pixel Art Forest.png::CompressedTexture2D/CompressedTexture2D::21052299022444249
 Pixel Art Plataformer Painted Style.png::CompressedTexture2D/CompressedTexture2D::3458271513189605201::1588030197::1748492562::1::::<><><>0<>0<>744d1f358e382b6fb69cfc306df6d1c1<>res://.godot/imported/Pixel Art Plataformer Painted Style.png-edbef183ab3cb212fe655bd46204e435.ctex::
 Pixel Art Runner.png::CompressedTexture2D/CompressedTexture2D::2202188037902856720::1588029419::1748492562::1::::<><><>0<>0<>40dbe52dbedc3e7ad1c1cbfc6fdc274e<>res://.godot/imported/Pixel Art Runner.png-81cc4d28fa4dea08941a4a40e532f64a.ctex::
 Pixel Art Snowy Forest.png::CompressedTexture2D/CompressedTexture2D::8421413541481411793::1588029865::1748492562::1::::<><><>0<>0<>609f03257d42dfd1de46dbfaf9e1a522<>res://.godot/imported/Pixel Art Snowy Forest.png-34fcafcc3eb42901071bd6d85fd4cbc7.ctex::
-::res://Scenes/::1748595552
-character_body_2d.tscn::PackedScene::3400450095855773336::1748590120::0::1::::<><><>0<>0<><>::uid://cl25qhjsngh5y::::res://Assets/Sprites/New Piskel-1.png.png<>uid://dqwd42h0ej2bl::::res://Scripts/Player_movement.gd
-world.tscn::PackedScene::2464303561122917233::1748595552::0::1::::<><><>0<>0<><>::uid://dvjqy4ndhgabk::::res://Assets/Tilemaps/Final/Background_0.png<>uid://bopg6fg7jdn3e::::res://Scenes/character_body_2d.tscn<>uid://b6duoyew7kr8e::::res://Assets/Tilemaps/Final/Tiles.png
+::res://Scenes/::1748679369
+Light_Lop_Enemy.tscn::PackedScene::8020017210550595281::1748679369::0::1::::<><><>0<>0<><>::uid://b5540ij23hiok::::res://Assets/Sprites/Light Lop Spritesheet Idle.png
+Player.tscn::PackedScene/PackedScene::3400450095855773336::1748678906::0::1::::<><><>0<>0<><>::uid://cl25qhjsngh5y::::res://Assets/Sprites/New Piskel-1.png.png<>uid://dqwd42h0ej2bl::::res://Scripts/Player_movement.gd
+world.tscn::PackedScene/PackedScene::2464303561122917233::1748678920::0::1::::<><><>0<>0<><>::uid://dvjqy4ndhgabk::::res://Assets/Tilemaps/Final/Background_0.png<>uid://bopg6fg7jdn3e::::res://Scenes/Player.tscn<>uid://b6duoyew7kr8e::::res://Assets/Tilemaps/Final/Tiles.png<>uid://jdrx5rwx71mj::::res://Assets/Tilemaps/Final/Background_1.png<>uid://b1jj21t1h3u3u::::res://Assets/Tilemaps/Final/Grass_background_1.png<>uid://cqmpsxay1g1mw::::res://Assets/Tilemaps/Final/Salt.png
 ::res://Scripts/::1748590099
-Player_movement.gd::GDScript::8327935228964378497::1748491931::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Player_movement.gd::GDScript/GDScript::8327935228964378497::1748491931::0::1::::<>CharacterBody2D<><>0<>0<><>::
