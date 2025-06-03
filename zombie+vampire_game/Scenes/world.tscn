@@ -552,7 +552,8 @@ texture = ExtResource("3_fo5ed")
 19:23/0 = 0
 
 [sub_resource type="TileSet" id="TileSet_tlwt5"]
-physics_layer_0/collision_layer = 1
+physics_layer_0/collision_layer = 15
+physics_layer_0/collision_mask = 15
 sources/0 = SubResource("TileSetAtlasSource_fj7yv")
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_k7acu"]
@@ -1161,5 +1162,6 @@ tile_set = SubResource("TileSet_5v1tr")
 position = Vector2(935, 597)
 
 [node name="CharacterBody2D" parent="Light Lops" instance=ExtResource("7_o06y3")]
-z_index = 10
-position = Vector2(-354, -1)
+z_index = 9
+position = Vector2(-362, 30)
+collision_mask = 2
