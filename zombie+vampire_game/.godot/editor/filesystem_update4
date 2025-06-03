@@ -1,4 +1,5 @@
 res://Scenes/Light_Lop_Enemy.tscn
-res://Scripts/Player_movement.gd
+res://Scenes/light_lop_enemy.gd
+res://light_lop_enemy.gd
 res://Scenes/world.tscn
 res://Scenes/Player.tscn

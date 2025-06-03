@@ -1160,7 +1160,6 @@ tile_set = SubResource("TileSet_5v1tr")
 [node name="Light Lops" type="Node2D" parent="."]
 position = Vector2(935, 597)
 
-[node name="Light Lop" parent="Light Lops" instance=ExtResource("7_o06y3")]
-z_index = 9
-position = Vector2(-438, 2)
-script = null
+[node name="CharacterBody2D" parent="Light Lops" instance=ExtResource("7_o06y3")]
+z_index = 10
+position = Vector2(-354, -1)
