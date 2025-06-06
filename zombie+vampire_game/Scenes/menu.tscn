@@ -33,3 +33,5 @@ layout_mode = 2
 text = "Exit"
 
 [connection signal="pressed" from="Menu Buttons/start_button" to="." method="_on_start_button_pressed"]
+[connection signal="pressed" from="Menu Buttons/settings_button" to="." method="_on_settings_button_pressed"]
+[connection signal="pressed" from="Menu Buttons/quit_button" to="." method="_on_quit_button_pressed"]
