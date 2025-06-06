@@ -1,58 +1,57 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1749167998
-::res://Assets/::1749168002
-::res://Assets/Sounds/::1748492583
-::res://Assets/Sprites/::1749168002
-Light Lop Spritesheet Idle.png::CompressedTexture2D/CompressedTexture2D::4555823198448215326::1748678584::1748679370::1::::<><><>0<>0<>be3516e20c5e1d50a4c792d4db6f4a2f<>res://.godot/imported/Light Lop Spritesheet Idle.png-c540844d00dfaeedc79586498aaeb540.ctex::
-New Piskel-1.png.png::CompressedTexture2D/CompressedTexture2D::5602507311651790256::1747362970::1748492608::1::::<><><>0<>0<>19340ed1cdb46fda2416738916d60bb3<>res://.godot/imported/New Piskel-1.png.png-e5e6a61cab5f7af1449f36c453bdc2c7.ctex::
-Screenshot 2025-05-13 123631.png::CompressedTexture2D/CompressedTexture2D::3142168983915957721::1747103793::1748492608::1::::<><><>0<>0<>ad97b7234f7cdede1be77f5cf7e000ad<>res://.godot/imported/Screenshot 2025-05-13 123631.png-3658e6ed28e23f349cb0b3f31b1e8627.ctex::
-Screenshot 2025-05-13 124741.png::CompressedTexture2D/CompressedTexture2D::2345983985552129165::1747104461::1748492608::1::::<><><>0<>0<>5c199ae3692e39effe197d725a2f8d71<>res://.godot/imported/Screenshot 2025-05-13 124741.png-90bc9f14d8c19a97f10a520ac5ba4073.ctex::
-Screenshot 2025-05-13 124920.png::CompressedTexture2D/CompressedTexture2D::6145754207398672130::1747104560::1748492608::1::::<><><>0<>0<>90e28e71635ccbf85510f9eb562dc5f6<>res://.godot/imported/Screenshot 2025-05-13 124920.png-4d5ac3f422bc195f972b6ef21ea298e0.ctex::
-Screenshot 2025-05-15 142458.png::CompressedTexture2D/CompressedTexture2D::8776367731969143018::1747283099::1748492608::1::::<><><>0<>0<>7dac0814c0dc698b91705db775d539d5<>res://.godot/imported/Screenshot 2025-05-15 142458.png-56144045b5d2d8b40375cfb2db28a294.ctex::
-spr_player_zombie.png::CompressedTexture2D/CompressedTexture2D::7979391018499147944::1747362965::1748492608::1::::<><><>0<>0<>66136088ef37e069b079250dbd429da7<>res://.godot/imported/spr_player_zombie.png-1ea16d63b88340d2697879b4dded758b.ctex::
-Zombie Sprite Single.png::CompressedTexture2D::5593247651987971320::1748916160::1749168061::1::::<><><>0<>0<>92df4a5760d02ae6c5ca678ee23d41f7<>res://.godot/imported/Zombie Sprite Single.png-c060799c2bdd09d32cf1c7e1b9dd9027.ctex::
-Zombie Sprite.png::CompressedTexture2D::6209415322805975207::1748915615::1749168061::1::::<><><>0<>0<>7bbc7987a5b1b06a6ac5050ce68d4b58<>res://.godot/imported/Zombie Sprite.png-699f152bea323b29b35448cd745a487f.ctex::
-::res://Assets/Tilemaps/::1748492559
-::res://Assets/Tilemaps/Final/::1748678848
-Background_0.png::CompressedTexture2D/CompressedTexture2D::8652823041608010220::1569997150::1748492562::1::::<><><>0<>0<>66f4dd618ae1503874f616e4345eabc5<>res://.godot/imported/Background_0.png-02f0be72f895a35071ddd81d69a91517.ctex::
-Background_1.png::CompressedTexture2D/CompressedTexture2D::638967591135095929::1569997216::1748492562::1::::<><><>0<>0<>668776f3ff3a57fa5af8e341c09253ed<>res://.godot/imported/Background_1.png-6c9a7ae5a6758127c41f4dd1bc668431.ctex::
-brush.png::CompressedTexture2D/CompressedTexture2D::4223298785970206023::1569996768::1748492562::1::::<><><>0<>0<>ac6d01ec41801416503a97e14ddfcd96<>res://.godot/imported/brush.png-4321df45f55d7aa8b46493f801771e21.ctex::
-Grass_background_1.png::CompressedTexture2D/CompressedTexture2D::4230506083588999020::1569996958::1748492562::1::::<><><>0<>0<>001f41da4474fefdb724292647029706<>res://.godot/imported/Grass_background_1.png-6b17a2ed40c1b1536e0e7bd412b83d0c.ctex::
-Grass_background_2.png::CompressedTexture2D/CompressedTexture2D::3497799529971638406::1569997080::1748492562::1::::<><><>0<>0<>f84ba8983662fc69230561d014c0b27a<>res://.godot/imported/Grass_background_2.png-cf4e87e91572e7740cb300d0481720e5.ctex::
-Light Lop Spritesheet Idle.png::CompressedTexture2D/CompressedTexture2D::1331806357963777792::1748678848::1748678827::1::::<><><>0<>0<>bf6cec438832455b26ce00436df2715a<>res://.godot/imported/Light Lop Spritesheet Idle.png-5091d5ef49c119bf1e591b889db600a8.ctex::
-Salt.png::CompressedTexture2D/CompressedTexture2D::5921579506987737190::1569997104::1748492562::1::::<><><>0<>0<>cebd81cf3cda4b2a0d017207b550e63a<>res://.godot/imported/Salt.png-92614fea6635517d9a7b0fe4cf0506da.ctex::
-Tiles.png::CompressedTexture2D/CompressedTexture2D::4569708578486659130::1569998050::1748492562::1::::<><><>0<>0<>ed2c6c5157874bfd9b2b38fe2733749e<>res://.godot/imported/Tiles.png-a5a9ab5e88d279faa54715e0313218a0.ctex::
-::res://Assets/Tilemaps/Free Pixel Art Forest/::1634587338
-changelog.txt::TextFile/TextFile::-1::1634587720::0::1::::<><><>0<>0<><>::
-Contact.txt::TextFile/TextFile::-1::1630714890::0::1::::<><><>0<>0<><>::
-license.txt::TextFile/TextFile::-1::1634587675::0::1::::<><><>0<>0<><>::
-readme.txt::TextFile/TextFile::-1::1634588171::0::1::::<><><>0<>0<><>::
-::res://Assets/Tilemaps/Free Pixel Art Forest/PNG/::1612049952
-::res://Assets/Tilemaps/Free Pixel Art Forest/PNG/Background layers/::1748492562
-Layer_0000_9.png::CompressedTexture2D/CompressedTexture2D::5217688160002263636::1487548082::1748492562::1::::<><><>0<>0<>97e8488c50b0ee6365dd63957f798be5<>res://.godot/imported/Layer_0000_9.png-384dc391f2b0467eae47f819b2ea584f.ctex::
-Layer_0001_8.png::CompressedTexture2D/CompressedTexture2D::7201141288623352524::1487548082::1748492562::1::::<><><>0<>0<>d8c20db23fe099c2cd9fb376e1901b1d<>res://.godot/imported/Layer_0001_8.png-bed61b4a6384175b92cd5b1969b02c6f.ctex::
-Layer_0002_7.png::CompressedTexture2D/CompressedTexture2D::7392437535944098778::1487548084::1748492562::1::::<><><>0<>0<>474fa24beaa0812cd3c683220ec46cc5<>res://.godot/imported/Layer_0002_7.png-6e945fd0d304014f5d45f16cc7f183fa.ctex::
-Layer_0003_6.png::CompressedTexture2D/CompressedTexture2D::997456828334345206::1487548084::1748492562::1::::<><><>0<>0<>04e8e84c8fd045c1f26384fa9f3ce3e1<>res://.godot/imported/Layer_0003_6.png-05e100670e4b13392ee0c4bb3bd7d57c.ctex::
-Layer_0004_Lights.png::CompressedTexture2D/CompressedTexture2D::6883070833553545746::1487548086::1748492562::1::::<><><>0<>0<>d7e2e175c71c1e91e6b24a4081bb8e2e<>res://.godot/imported/Layer_0004_Lights.png-fc3234d8bb19d49bc9ceb0fad66625d0.ctex::
-Layer_0005_5.png::CompressedTexture2D/CompressedTexture2D::1111816642278404991::1487548088::1748492562::1::::<><><>0<>0<>99b56ca538458e7e2fe833a0c522fba9<>res://.godot/imported/Layer_0005_5.png-c456279e1a05d34e89fb308a9a95e669.ctex::
-Layer_0006_4.png::CompressedTexture2D/CompressedTexture2D::8126994550085178783::1487548088::1748492562::1::::<><><>0<>0<>3f8e7b24d1116a45aa5ad081520c28ab<>res://.godot/imported/Layer_0006_4.png-673c9111f67e3fed08d303c497a95a85.ctex::
-Layer_0007_Lights.png::CompressedTexture2D/CompressedTexture2D::4195506801892475677::1487548090::1748492562::1::::<><><>0<>0<>c708094084b857c79812cc91dd1987a3<>res://.godot/imported/Layer_0007_Lights.png-e789cdb228372efae95e57444fe61583.ctex::
-Layer_0008_3.png::CompressedTexture2D/CompressedTexture2D::4072898419481308173::1487548092::1748492562::1::::<><><>0<>0<>610bc3be9e6aaea2a969979a5d9e8e03<>res://.godot/imported/Layer_0008_3.png-4b6648ac6b3681b1872827539526b6aa.ctex::
-Layer_0009_2.png::CompressedTexture2D/CompressedTexture2D::2649899465583822705::1487548092::1748492562::1::::<><><>0<>0<>fb419d68c0398d0925b1490ea8ce0036<>res://.godot/imported/Layer_0009_2.png-d2bf56ae34669161c7798f81452e55ba.ctex::
-Layer_0010_1.png::CompressedTexture2D/CompressedTexture2D::8045204828066346373::1487548094::1748492562::1::::<><><>0<>0<>9a2d540c114c688c8908d0729f4d7114<>res://.godot/imported/Layer_0010_1.png-5d3b8056d6f5412697e13b1baf27776d.ctex::
-Layer_0011_0.png::CompressedTexture2D/CompressedTexture2D::7730059025637957966::1575073221::1748492562::1::::<><><>0<>0<>8484d529f11431c39ffb26ac9c4eb579<>res://.godot/imported/Layer_0011_0.png-2901c2f9068a45a0bc5fbdcb05b5b7a0.ctex::
-::res://Assets/Tilemaps/Free Pixel Art Forest/Preview/::1748492562
-Background.png::CompressedTexture2D/CompressedTexture2D::5403797645793618187::1487701938::1748492562::1::::<><><>0<>0<>192e3532e80891f1572e80f371ef32c5<>res://.godot/imported/Background.png-5233451d42878b770b212aa659f1d935.ctex::
-::res://Assets/Tilemaps/Free Pixel Art Forest/PSD/::1612049952
-::res://Assets/Tilemaps/Free Pixel Art Forest/You may also like/::1748492562
-Pixel Art Forest.png::CompressedTexture2D/CompressedTexture2D::2105229902244424981::1588029593::1748492562::1::::<><><>0<>0<>cb10c99625f9c5f5c9fb24ad44186d15<>res://.godot/imported/Pixel Art Forest.png-fbff580c482d1191303742d8f192dd85.ctex::
-Pixel Art Plataformer Painted Style.png::CompressedTexture2D/CompressedTexture2D::3458271513189605201::1588030197::1748492562::1::::<><><>0<>0<>744d1f358e382b6fb69cfc306df6d1c1<>res://.godot/imported/Pixel Art Plataformer Painted Style.png-edbef183ab3cb212fe655bd46204e435.ctex::
-Pixel Art Runner.png::CompressedTexture2D/CompressedTexture2D::2202188037902856720::1588029419::1748492562::1::::<><><>0<>0<>40dbe52dbedc3e7ad1c1cbfc6fdc274e<>res://.godot/imported/Pixel Art Runner.png-81cc4d28fa4dea08941a4a40e532f64a.ctex::
-Pixel Art Snowy Forest.png::CompressedTexture2D/CompressedTexture2D::8421413541481411793::1588029865::1748492562::1::::<><><>0<>0<>609f03257d42dfd1de46dbfaf9e1a522<>res://.godot/imported/Pixel Art Snowy Forest.png-34fcafcc3eb42901071bd6d85fd4cbc7.ctex::
-::res://Scenes/::1748916915
-Light_Lop_Enemy.tscn::PackedScene/PackedScene::8020017210550595281::1748916588::0::1::::<><><>0<>0<><>::uid://cd2vb5tqpnx8o::::res://Scripts/light_lop_enemy.gd<>uid://b5540ij23hiok::::res://Assets/Sprites/Light Lop Spritesheet Idle.png
-Player.tscn::PackedScene/PackedScene::3400450095855773336::1748916588::0::1::::<><><>0<>0<><>::uid://cl25qhjsngh5y::::res://Assets/Sprites/New Piskel-1.png.png<>uid://dqwd42h0ej2bl::::res://Scripts/Player_movement.gd
-world.tscn::PackedScene/PackedScene::2464303561122917233::1748916915::0::1::::<><><>0<>0<><>::uid://dvjqy4ndhgabk::::res://Assets/Tilemaps/Final/Background_0.png<>uid://bopg6fg7jdn3e::::res://Scenes/Player.tscn<>uid://b6duoyew7kr8e::::res://Assets/Tilemaps/Final/Tiles.png<>uid://jdrx5rwx71mj::::res://Assets/Tilemaps/Final/Background_1.png<>uid://b1jj21t1h3u3u::::res://Assets/Tilemaps/Final/Grass_background_1.png<>uid://cqmpsxay1g1mw::::res://Assets/Tilemaps/Final/Salt.png<>uid://dmi7rnst8c3vx::::res://Scenes/Light_Lop_Enemy.tscn
-::res://Scripts/::1748914145
-light_lop_enemy.gd::GDScript/GDScript::5040424546101252580::1748914145::0::1::::<>CharacterBody2D<><>0<>0<><>::
-Player_movement.gd::GDScript/GDScript::8327935228964378497::1748491931::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://::1749167845
+::res://Assets/::1748912896
+::res://Assets/Sprites/::1749168199
+Light Lop Spritesheet Idle.png::CompressedTexture2D/CompressedTexture2D::4555823198448215326::1748912896::1748913014::1::::<><><>0<>0<>be3516e20c5e1d50a4c792d4db6f4a2f<>res://.godot/imported/Light Lop Spritesheet Idle.png-c540844d00dfaeedc79586498aaeb540.ctex::
+New Piskel-1.png.png::CompressedTexture2D/CompressedTexture2D::5602507311651790256::1748312904::1748314411::1::::<><><>0<>0<>19340ed1cdb46fda2416738916d60bb3<>res://.godot/imported/New Piskel-1.png.png-e5e6a61cab5f7af1449f36c453bdc2c7.ctex::
+Screenshot 2025-05-13 123631.png::CompressedTexture2D/CompressedTexture2D::3142168983915957721::1748312904::1748314411::1::::<><><>0<>0<>ad97b7234f7cdede1be77f5cf7e000ad<>res://.godot/imported/Screenshot 2025-05-13 123631.png-3658e6ed28e23f349cb0b3f31b1e8627.ctex::
+Screenshot 2025-05-13 124741.png::CompressedTexture2D/CompressedTexture2D::2345983985552129165::1748312904::1748314411::1::::<><><>0<>0<>5c199ae3692e39effe197d725a2f8d71<>res://.godot/imported/Screenshot 2025-05-13 124741.png-90bc9f14d8c19a97f10a520ac5ba4073.ctex::
+Screenshot 2025-05-13 124920.png::CompressedTexture2D/CompressedTexture2D::6145754207398672130::1748312904::1748314411::1::::<><><>0<>0<>90e28e71635ccbf85510f9eb562dc5f6<>res://.godot/imported/Screenshot 2025-05-13 124920.png-4d5ac3f422bc195f972b6ef21ea298e0.ctex::
+Screenshot 2025-05-15 142458.png::CompressedTexture2D/CompressedTexture2D::8776367731969143018::1748312904::1748314411::1::::<><><>0<>0<>7dac0814c0dc698b91705db775d539d5<>res://.godot/imported/Screenshot 2025-05-15 142458.png-56144045b5d2d8b40375cfb2db28a294.ctex::
+spr_player_zombie.png::CompressedTexture2D/CompressedTexture2D::7979391018499147944::1748314376::1748314411::1::::<><><>0<>0<>66136088ef37e069b079250dbd429da7<>res://.godot/imported/spr_player_zombie.png-1ea16d63b88340d2697879b4dded758b.ctex::
+Zombie Sprite Single.png::CompressedTexture2D::5593247651987971320::1749168199::1749168219::1::::<><><>0<>0<>92df4a5760d02ae6c5ca678ee23d41f7<>res://.godot/imported/Zombie Sprite Single.png-c060799c2bdd09d32cf1c7e1b9dd9027.ctex::
+Zombie Sprite.png::CompressedTexture2D::6209415322805975207::1749168199::1749168219::1::::<><><>0<>0<>7bbc7987a5b1b06a6ac5050ce68d4b58<>res://.godot/imported/Zombie Sprite.png-699f152bea323b29b35448cd745a487f.ctex::
+::res://Assets/Tilemaps/::1748912896
+::res://Assets/Tilemaps/Final/::1748913014
+Background_0.png::CompressedTexture2D/CompressedTexture2D::8652823041608010220::1748912896::1748913014::1::::<><><>0<>0<>66f4dd618ae1503874f616e4345eabc5<>res://.godot/imported/Background_0.png-02f0be72f895a35071ddd81d69a91517.ctex::
+Background_1.png::CompressedTexture2D/CompressedTexture2D::638967591135095929::1748912896::1748913014::1::::<><><>0<>0<>668776f3ff3a57fa5af8e341c09253ed<>res://.godot/imported/Background_1.png-6c9a7ae5a6758127c41f4dd1bc668431.ctex::
+brush.png::CompressedTexture2D/CompressedTexture2D::4223298785970206023::1748912896::1748913014::1::::<><><>0<>0<>ac6d01ec41801416503a97e14ddfcd96<>res://.godot/imported/brush.png-4321df45f55d7aa8b46493f801771e21.ctex::
+Grass_background_1.png::CompressedTexture2D/CompressedTexture2D::4230506083588999020::1748912896::1748913014::1::::<><><>0<>0<>001f41da4474fefdb724292647029706<>res://.godot/imported/Grass_background_1.png-6b17a2ed40c1b1536e0e7bd412b83d0c.ctex::
+Grass_background_2.png::CompressedTexture2D/CompressedTexture2D::3497799529971638406::1748912896::1748913014::1::::<><><>0<>0<>f84ba8983662fc69230561d014c0b27a<>res://.godot/imported/Grass_background_2.png-cf4e87e91572e7740cb300d0481720e5.ctex::
+Light Lop Spritesheet Idle.png::CompressedTexture2D/CompressedTexture2D::1331806357963777792::1748912896::1748913013::1::::<><><>0<>0<>bf6cec438832455b26ce00436df2715a<>res://.godot/imported/Light Lop Spritesheet Idle.png-5091d5ef49c119bf1e591b889db600a8.ctex::
+Salt.png::CompressedTexture2D/CompressedTexture2D::5921579506987737190::1748912896::1748913013::1::::<><><>0<>0<>cebd81cf3cda4b2a0d017207b550e63a<>res://.godot/imported/Salt.png-92614fea6635517d9a7b0fe4cf0506da.ctex::
+Tiles.png::CompressedTexture2D/CompressedTexture2D::4569708578486659130::1748912896::1748913013::1::::<><><>0<>0<>ed2c6c5157874bfd9b2b38fe2733749e<>res://.godot/imported/Tiles.png-a5a9ab5e88d279faa54715e0313218a0.ctex::
+::res://Assets/Tilemaps/Free Pixel Art Forest/::1748912896
+changelog.txt::TextFile::-1::1748912896::0::1::::<><><>0<>0<><>::
+Contact.txt::TextFile::-1::1748912896::0::1::::<><><>0<>0<><>::
+license.txt::TextFile::-1::1748912896::0::1::::<><><>0<>0<><>::
+readme.txt::TextFile::-1::1748912896::0::1::::<><><>0<>0<><>::
+::res://Assets/Tilemaps/Free Pixel Art Forest/PNG/::1748912896
+::res://Assets/Tilemaps/Free Pixel Art Forest/PNG/Background layers/::1748913013
+Layer_0000_9.png::CompressedTexture2D/CompressedTexture2D::5217688160002263636::1748912896::1748913013::1::::<><><>0<>0<>97e8488c50b0ee6365dd63957f798be5<>res://.godot/imported/Layer_0000_9.png-384dc391f2b0467eae47f819b2ea584f.ctex::
+Layer_0001_8.png::CompressedTexture2D/CompressedTexture2D::7201141288623352524::1748912896::1748913013::1::::<><><>0<>0<>d8c20db23fe099c2cd9fb376e1901b1d<>res://.godot/imported/Layer_0001_8.png-bed61b4a6384175b92cd5b1969b02c6f.ctex::
+Layer_0002_7.png::CompressedTexture2D/CompressedTexture2D::7392437535944098778::1748912896::1748913013::1::::<><><>0<>0<>474fa24beaa0812cd3c683220ec46cc5<>res://.godot/imported/Layer_0002_7.png-6e945fd0d304014f5d45f16cc7f183fa.ctex::
+Layer_0003_6.png::CompressedTexture2D/CompressedTexture2D::997456828334345206::1748912896::1748913013::1::::<><><>0<>0<>04e8e84c8fd045c1f26384fa9f3ce3e1<>res://.godot/imported/Layer_0003_6.png-05e100670e4b13392ee0c4bb3bd7d57c.ctex::
+Layer_0004_Lights.png::CompressedTexture2D/CompressedTexture2D::6883070833553545746::1748912896::1748913013::1::::<><><>0<>0<>d7e2e175c71c1e91e6b24a4081bb8e2e<>res://.godot/imported/Layer_0004_Lights.png-fc3234d8bb19d49bc9ceb0fad66625d0.ctex::
+Layer_0005_5.png::CompressedTexture2D/CompressedTexture2D::1111816642278404991::1748912896::1748913013::1::::<><><>0<>0<>99b56ca538458e7e2fe833a0c522fba9<>res://.godot/imported/Layer_0005_5.png-c456279e1a05d34e89fb308a9a95e669.ctex::
+Layer_0006_4.png::CompressedTexture2D/CompressedTexture2D::8126994550085178783::1748912896::1748913013::1::::<><><>0<>0<>3f8e7b24d1116a45aa5ad081520c28ab<>res://.godot/imported/Layer_0006_4.png-673c9111f67e3fed08d303c497a95a85.ctex::
+Layer_0007_Lights.png::CompressedTexture2D/CompressedTexture2D::4195506801892475677::1748912896::1748913013::1::::<><><>0<>0<>c708094084b857c79812cc91dd1987a3<>res://.godot/imported/Layer_0007_Lights.png-e789cdb228372efae95e57444fe61583.ctex::
+Layer_0008_3.png::CompressedTexture2D/CompressedTexture2D::4072898419481308173::1748912896::1748913013::1::::<><><>0<>0<>610bc3be9e6aaea2a969979a5d9e8e03<>res://.godot/imported/Layer_0008_3.png-4b6648ac6b3681b1872827539526b6aa.ctex::
+Layer_0009_2.png::CompressedTexture2D/CompressedTexture2D::2649899465583822705::1748912896::1748913013::1::::<><><>0<>0<>fb419d68c0398d0925b1490ea8ce0036<>res://.godot/imported/Layer_0009_2.png-d2bf56ae34669161c7798f81452e55ba.ctex::
+Layer_0010_1.png::CompressedTexture2D/CompressedTexture2D::8045204828066346373::1748912896::1748913013::1::::<><><>0<>0<>9a2d540c114c688c8908d0729f4d7114<>res://.godot/imported/Layer_0010_1.png-5d3b8056d6f5412697e13b1baf27776d.ctex::
+Layer_0011_0.png::CompressedTexture2D/CompressedTexture2D::7730059025637957966::1748912896::1748913013::1::::<><><>0<>0<>8484d529f11431c39ffb26ac9c4eb579<>res://.godot/imported/Layer_0011_0.png-2901c2f9068a45a0bc5fbdcb05b5b7a0.ctex::
+::res://Assets/Tilemaps/Free Pixel Art Forest/Preview/::1748913013
+Background.png::CompressedTexture2D/CompressedTexture2D::5403797645793618187::1748912896::1748913013::1::::<><><>0<>0<>192e3532e80891f1572e80f371ef32c5<>res://.godot/imported/Background.png-5233451d42878b770b212aa659f1d935.ctex::
+::res://Assets/Tilemaps/Free Pixel Art Forest/PSD/::1748912896
+::res://Assets/Tilemaps/Free Pixel Art Forest/You may also like/::1748913013
+Pixel Art Forest.png::CompressedTexture2D/CompressedTexture2D::2105229902244424981::1748912896::1748913013::1::::<><><>0<>0<>cb10c99625f9c5f5c9fb24ad44186d15<>res://.godot/imported/Pixel Art Forest.png-fbff580c482d1191303742d8f192dd85.ctex::
+Pixel Art Plataformer Painted Style.png::CompressedTexture2D/CompressedTexture2D::3458271513189605201::1748912896::1748913013::1::::<><><>0<>0<>744d1f358e382b6fb69cfc306df6d1c1<>res://.godot/imported/Pixel Art Plataformer Painted Style.png-edbef183ab3cb212fe655bd46204e435.ctex::
+Pixel Art Runner.png::CompressedTexture2D/CompressedTexture2D::2202188037902856720::1748912896::1748913013::1::::<><><>0<>0<>40dbe52dbedc3e7ad1c1cbfc6fdc274e<>res://.godot/imported/Pixel Art Runner.png-81cc4d28fa4dea08941a4a40e532f64a.ctex::
+Pixel Art Snowy Forest.png::CompressedTexture2D/CompressedTexture2D::8421413541481411793::1748912896::1748913013::1::::<><><>0<>0<>609f03257d42dfd1de46dbfaf9e1a522<>res://.godot/imported/Pixel Art Snowy Forest.png-34fcafcc3eb42901071bd6d85fd4cbc7.ctex::
+::res://Scenes/::1749168199
+Light_Lop_Enemy.tscn::PackedScene::8020017210550595281::1749167750::0::1::::<><><>0<>0<><>::uid://cd2vb5tqpnx8o::::res://Scripts/light_lop_enemy.gd<>uid://b5540ij23hiok::::res://Assets/Sprites/Light Lop Spritesheet Idle.png
+Player.tscn::PackedScene::3400450095855773336::1749167750::0::1::::<><><>0<>0<><>::uid://cl25qhjsngh5y::::res://Assets/Sprites/New Piskel-1.png.png<>uid://dqwd42h0ej2bl::::res://Scripts/Player_movement.gd
+world.tscn::PackedScene::2464303561122917233::1749168199::0::1::::<><><>0<>0<><>::uid://dvjqy4ndhgabk::::res://Assets/Tilemaps/Final/Background_0.png<>uid://bopg6fg7jdn3e::::res://Scenes/Player.tscn<>uid://b6duoyew7kr8e::::res://Assets/Tilemaps/Final/Tiles.png<>uid://jdrx5rwx71mj::::res://Assets/Tilemaps/Final/Background_1.png<>uid://b1jj21t1h3u3u::::res://Assets/Tilemaps/Final/Grass_background_1.png<>uid://cqmpsxay1g1mw::::res://Assets/Tilemaps/Final/Salt.png<>uid://dmi7rnst8c3vx::::res://Scenes/Light_Lop_Enemy.tscn
+::res://Scripts/::1749167750
+light_lop_enemy.gd::GDScript::5040424546101252580::1748914410::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Player_movement.gd::GDScript::8327935228964378497::1749167750::0::1::::<>CharacterBody2D<><>0<>0<><>::

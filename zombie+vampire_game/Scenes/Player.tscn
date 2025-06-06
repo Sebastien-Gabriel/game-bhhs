@@ -1,7 +1,67 @@
-[gd_scene load_steps=4 format=3 uid="uid://bopg6fg7jdn3e"]
+[gd_scene load_steps=11 format=3 uid="uid://bopg6fg7jdn3e"]
 
-[ext_resource type="Texture2D" uid="uid://cl25qhjsngh5y" path="res://Assets/Sprites/New Piskel-1.png.png" id="1_f50pn"]
 [ext_resource type="Script" uid="uid://dqwd42h0ej2bl" path="res://Scripts/Player_movement.gd" id="1_ij6vw"]
+[ext_resource type="Texture2D" uid="uid://cup5fsu3fll0b" path="res://Assets/Sprites/Zombie Sprite.png" id="2_kyqiw"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_dewec"]
+atlas = ExtResource("2_kyqiw")
+region = Rect2(480, 0, 480, 480)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_gntrk"]
+atlas = ExtResource("2_kyqiw")
+region = Rect2(0, 0, 480, 480)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_kyqiw"]
+atlas = ExtResource("2_kyqiw")
+region = Rect2(0, 960, 480, 480)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_5ixxa"]
+atlas = ExtResource("2_kyqiw")
+region = Rect2(480, 960, 480, 480)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nn08x"]
+atlas = ExtResource("2_kyqiw")
+region = Rect2(0, 480, 480, 480)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_52ee3"]
+atlas = ExtResource("2_kyqiw")
+region = Rect2(480, 480, 480, 480)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_megsn"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_dewec")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_gntrk")
+}],
+"loop": true,
+"name": &"Idle",
+"speed": 1.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_kyqiw")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_5ixxa")
+}],
+"loop": true,
+"name": &"Walk_Left",
+"speed": 3.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nn08x")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_52ee3")
+}],
+"loop": true,
+"name": &"Walk_Right",
+"speed": 3.0
+}]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_88kja"]
 radius = 20.0
@@ -10,10 +70,14 @@ height = 108.0
 [node name="Player" type="CharacterBody2D"]
 script = ExtResource("1_ij6vw")
 
-[node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(34, -53)
-scale = Vector2(1.53125, 2.09375)
-texture = ExtResource("1_f50pn")
+[node name="Zombie_Idle" type="AnimatedSprite2D" parent="."]
+position = Vector2(33, -65)
+scale = Vector2(0.353646, 0.353646)
+sprite_frames = SubResource("SpriteFrames_megsn")
+animation = &"Walk_Left"
+autoplay = "Idle"
+frame_progress = 0.178823
+speed_scale = 1.5
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(32, -55)
