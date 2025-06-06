@@ -1,0 +1,35 @@
+[gd_scene load_steps=2 format=3 uid="uid://dkky08idpbaju"]
+
+[ext_resource type="Script" uid="uid://dlce2emaswn5c" path="res://Scripts/menu.gd" id="1_1rerr"]
+
+[node name="Menu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 0
+script = ExtResource("1_1rerr")
+
+[node name="Menu Buttons" type="VBoxContainer" parent="."]
+layout_mode = 0
+offset_left = 420.0
+offset_top = 338.0
+offset_right = 735.0
+offset_bottom = 447.0
+alignment = 1
+
+[node name="start_button" type="Button" parent="Menu Buttons"]
+layout_mode = 2
+text = "Play"
+
+[node name="settings_button" type="Button" parent="Menu Buttons"]
+layout_mode = 2
+text = "Settings"
+
+[node name="quit_button" type="Button" parent="Menu Buttons"]
+layout_mode = 2
+text = "Exit"
+
+[connection signal="pressed" from="Menu Buttons/start_button" to="." method="_on_start_button_pressed"]
