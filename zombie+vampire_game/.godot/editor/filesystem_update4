@@ -1,1 +1,5 @@
+res://Scenes/menu.tscn
 res://Scenes/world.tscn
+res://Scenes/Player.tscn
+res://Scenes/Light_Lop_Enemy.tscn
+res://Scripts/menu.gd
