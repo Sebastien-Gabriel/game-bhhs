@@ -1,3 +1,2 @@
-res://Scenes/world.tscn
-res://Scenes/menu.tscn
-res://Scripts/menu.gd
+res://Scenes/light_post_tall.tscn
+res://Scripts/light_post_tall.gd
