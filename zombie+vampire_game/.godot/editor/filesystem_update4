@@ -1,2 +1,8 @@
-res://Scenes/light_post_tall.tscn
+res://Scenes/world.tscn
 res://Scripts/light_post_tall.gd
+res://Scenes/menu.tscn
+res://Scenes/light_post_tall.tscn
+res://Scenes/Player.tscn
+res://Scenes/death_boundary.tscn
+res://Scenes/win_screen.tscn
+res://Scripts/win_screen.gd

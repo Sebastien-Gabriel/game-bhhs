@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1749703371
+::res://::1749780450
 ::res://Assets/::1749701354
 ::res://Assets/Sounds/::1748492583
 ::res://Assets/Sprites/::1749701356
@@ -54,14 +54,15 @@ Pixel Art Forest.png::CompressedTexture2D/CompressedTexture2D::21052299022444249
 Pixel Art Plataformer Painted Style.png::CompressedTexture2D/CompressedTexture2D::3458271513189605201::1588030197::1748492562::1::::<><><>0<>0<>744d1f358e382b6fb69cfc306df6d1c1<>res://.godot/imported/Pixel Art Plataformer Painted Style.png-edbef183ab3cb212fe655bd46204e435.ctex::
 Pixel Art Runner.png::CompressedTexture2D/CompressedTexture2D::2202188037902856720::1588029419::1748492562::1::::<><><>0<>0<>40dbe52dbedc3e7ad1c1cbfc6fdc274e<>res://.godot/imported/Pixel Art Runner.png-81cc4d28fa4dea08941a4a40e532f64a.ctex::
 Pixel Art Snowy Forest.png::CompressedTexture2D/CompressedTexture2D::8421413541481411793::1588029865::1748492562::1::::<><><>0<>0<>609f03257d42dfd1de46dbfaf9e1a522<>res://.godot/imported/Pixel Art Snowy Forest.png-34fcafcc3eb42901071bd6d85fd4cbc7.ctex::
-::res://Scenes/::1749703356
+::res://Scenes/::1749703806
 Light_Lop_Enemy.tscn::PackedScene/PackedScene::8020017210550595281::1749170124::0::1::::<><><>0<>0<><>::uid://cd2vb5tqpnx8o::::res://Scripts/light_lop_enemy.gd<>uid://b5540ij23hiok::::res://Assets/Sprites/Light Lop Spritesheet Idle.png
-light_post_tall.tscn::PackedScene::6129571605161790111::1749703356::0::1::::<><><>0<>0<><>::uid://p3pr7jj01gi7::::res://Assets/Sprites/lamp_post_sprite.png<>uid://cw0555d4s23pa::::res://Assets/Sprites/lamppost_tall_beam_sprite.png
-menu.tscn::PackedScene::7883297863459623326::1749702948::0::1::::<><><>0<>0<><>::uid://dlce2emaswn5c::::res://Scripts/menu.gd
+light_post_tall.tscn::PackedScene::6129571605161790111::1749703806::0::1::::<><><>0<>0<><>::uid://brdpshbylpuk2::::res://Scripts/light_post_tall.gd<>uid://p3pr7jj01gi7::::res://Assets/Sprites/lamp_post_sprite.png<>uid://cw0555d4s23pa::::res://Assets/Sprites/lamppost_tall_beam_sprite.png
+menu.tscn::PackedScene/PackedScene::7883297863459623326::1749702948::0::1::::<><><>0<>0<><>::uid://dlce2emaswn5c::::res://Scripts/menu.gd
 options_menu.tscn::PackedScene/PackedScene::3853893359925233428::1749521961::0::1::::<><><>0<>0<><>::
-Player.tscn::PackedScene::3400450095855773336::1749702948::0::1::::<><><>0<>0<><>::uid://dqwd42h0ej2bl::::res://Scripts/Player_movement.gd<>uid://b2rfcs750rjqh::::res://Assets/Sprites/Zombie Sprite.png
-world.tscn::PackedScene::2464303561122917233::1749703352::0::1::::<><><>0<>0<><>::uid://dvjqy4ndhgabk::::res://Assets/Tilemaps/Final/Background_0.png<>uid://bopg6fg7jdn3e::::res://Scenes/Player.tscn<>uid://b6duoyew7kr8e::::res://Assets/Tilemaps/Final/Tiles.png<>uid://jdrx5rwx71mj::::res://Assets/Tilemaps/Final/Background_1.png<>uid://b1jj21t1h3u3u::::res://Assets/Tilemaps/Final/Grass_background_1.png<>uid://cqmpsxay1g1mw::::res://Assets/Tilemaps/Final/Salt.png<>uid://dmi7rnst8c3vx::::res://Scenes/Light_Lop_Enemy.tscn<>uid://ctlhfcaiv48v0::::res://Scenes/light_post_tall.tscn
-::res://Scripts/::1749703327
+Player.tscn::PackedScene/PackedScene::3400450095855773336::1749702948::0::1::::<><><>0<>0<><>::uid://dqwd42h0ej2bl::::res://Scripts/Player_movement.gd<>uid://b2rfcs750rjqh::::res://Assets/Sprites/Zombie Sprite.png
+world.tscn::PackedScene/PackedScene::2464303561122917233::1749703352::0::1::::<><><>0<>0<><>::uid://dvjqy4ndhgabk::::res://Assets/Tilemaps/Final/Background_0.png<>uid://bopg6fg7jdn3e::::res://Scenes/Player.tscn<>uid://b6duoyew7kr8e::::res://Assets/Tilemaps/Final/Tiles.png<>uid://jdrx5rwx71mj::::res://Assets/Tilemaps/Final/Background_1.png<>uid://b1jj21t1h3u3u::::res://Assets/Tilemaps/Final/Grass_background_1.png<>uid://cqmpsxay1g1mw::::res://Assets/Tilemaps/Final/Salt.png<>uid://dmi7rnst8c3vx::::res://Scenes/Light_Lop_Enemy.tscn<>uid://ctlhfcaiv48v0::::res://Scenes/light_post_tall.tscn
+::res://Scripts/::1749703806
 light_lop_enemy.gd::GDScript/GDScript::5040424546101252580::1748914145::0::1::::<>CharacterBody2D<><>0<>0<><>::
+light_post_tall.gd::GDScript::3586767428297634343::1749703806::0::1::::<>Node2D<><>0<>0<><>::
 menu.gd::GDScript/GDScript::7935759399668265346::1749522429::0::1::::<>Control<><>0<>0<><>::
 Player_movement.gd::GDScript/GDScript::8327935228964378497::1748491931::0::1::::<>CharacterBody2D<><>0<>0<><>::
