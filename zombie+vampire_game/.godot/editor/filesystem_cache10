@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1749783171
+::res://::1749783269
 ::res://Assets/::1749783036
 ::res://Assets/Sounds/::1748492583
-::res://Assets/Sprites/::1749783036
+::res://Assets/Sprites/::1749783174
 gg.jpg::CompressedTexture2D/CompressedTexture2D::5684658140043707626::1749783036::1749783174::1::::<><><>0<>0<>b67f964e14ea2bce76393498b142c7e5<>res://.godot/imported/gg.jpg-d42bef2b8ccf02a9b10278921f4f4df4.ctex::
 lamppost_tall_beam_sprite.png::CompressedTexture2D/CompressedTexture2D::6370482036552242758::1749524388::1749701355::1::::<><><>0<>0<>16048946ee8dbc492a8f0b67412a5c82<>res://.godot/imported/lamppost_tall_beam_sprite.png-10fd2bea9fb1a3ac82d26a5257023086.ctex::
 lamp_post_sprite.png::CompressedTexture2D/CompressedTexture2D::1111578040165840392::1749701305::1749701355::1::::<><><>0<>0<>246355784ee4c2e2906bcc75d4dc834d<>res://.godot/imported/lamp_post_sprite.png-925102a6daa2ddcc298cdae9a8719cfc.ctex::
@@ -29,10 +29,10 @@ Light Lop Spritesheet Idle.png::CompressedTexture2D/CompressedTexture2D::1331806
 Salt.png::CompressedTexture2D/CompressedTexture2D::5921579506987737190::1569997104::1748492562::1::::<><><>0<>0<>cebd81cf3cda4b2a0d017207b550e63a<>res://.godot/imported/Salt.png-92614fea6635517d9a7b0fe4cf0506da.ctex::
 Tiles.png::CompressedTexture2D/CompressedTexture2D::4569708578486659130::1569998050::1748492562::1::::<><><>0<>0<>ed2c6c5157874bfd9b2b38fe2733749e<>res://.godot/imported/Tiles.png-a5a9ab5e88d279faa54715e0313218a0.ctex::
 ::res://Assets/Tilemaps/Free Pixel Art Forest/::1634587338
-changelog.txt::TextFile::-1::1634587720::0::1::::<><><>0<>0<><>::
-Contact.txt::TextFile::-1::1630714890::0::1::::<><><>0<>0<><>::
-license.txt::TextFile::-1::1634587675::0::1::::<><><>0<>0<><>::
-readme.txt::TextFile::-1::1634588171::0::1::::<><><>0<>0<><>::
+changelog.txt::TextFile/TextFile::-1::1634587720::0::1::::<><><>0<>0<><>::
+Contact.txt::TextFile/TextFile::-1::1630714890::0::1::::<><><>0<>0<><>::
+license.txt::TextFile/TextFile::-1::1634587675::0::1::::<><><>0<>0<><>::
+readme.txt::TextFile/TextFile::-1::1634588171::0::1::::<><><>0<>0<><>::
 ::res://Assets/Tilemaps/Free Pixel Art Forest/PNG/::1612049952
 ::res://Assets/Tilemaps/Free Pixel Art Forest/PNG/Background layers/::1748492562
 Layer_0000_9.png::CompressedTexture2D/CompressedTexture2D::5217688160002263636::1487548082::1748492562::1::::<><><>0<>0<>97e8488c50b0ee6365dd63957f798be5<>res://.godot/imported/Layer_0000_9.png-384dc391f2b0467eae47f819b2ea584f.ctex::
@@ -56,19 +56,19 @@ Pixel Art Plataformer Painted Style.png::CompressedTexture2D/CompressedTexture2D
 Pixel Art Runner.png::CompressedTexture2D/CompressedTexture2D::2202188037902856720::1588029419::1748492562::1::::<><><>0<>0<>40dbe52dbedc3e7ad1c1cbfc6fdc274e<>res://.godot/imported/Pixel Art Runner.png-81cc4d28fa4dea08941a4a40e532f64a.ctex::
 Pixel Art Snowy Forest.png::CompressedTexture2D/CompressedTexture2D::8421413541481411793::1588029865::1748492562::1::::<><><>0<>0<>609f03257d42dfd1de46dbfaf9e1a522<>res://.godot/imported/Pixel Art Snowy Forest.png-34fcafcc3eb42901071bd6d85fd4cbc7.ctex::
 ::res://Scenes/::1749783036
-death_boundary.tscn::PackedScene::2927671875555768098::1749782196::0::1::::<><><>0<>0<><>::uid://dmkjucxpgc0wm::::res://Scripts/death_boundary.gd
-GameOver.tscn::PackedScene::8699543302359708112::1749783036::0::1::::<><><>0<>0<><>::uid://cm8xqvk0fb387::::res://Assets/Sprites/gg.jpg
-Light_Lop_Enemy.tscn::PackedScene::8020017210550595281::1749170124::0::1::::<><><>0<>0<><>::uid://cd2vb5tqpnx8o::::res://Scripts/light_lop_enemy.gd<>uid://b5540ij23hiok::::res://Assets/Sprites/Light Lop Spritesheet Idle.png
-light_post_tall.tscn::PackedScene::6129571605161790111::1749782196::0::1::::<><><>0<>0<><>::uid://p3pr7jj01gi7::::res://Assets/Sprites/lamp_post_sprite.png<>uid://cw0555d4s23pa::::res://Assets/Sprites/lamppost_tall_beam_sprite.png
-menu.tscn::PackedScene::7883297863459623326::1749783036::0::1::::<><><>0<>0<><>::uid://dlce2emaswn5c::::res://Scripts/menu.gd
-options_menu.tscn::PackedScene::3853893359925233428::1749783036::0::1::::<><><>0<>0<><>::
-Player.tscn::PackedScene::3400450095855773336::1749782196::0::1::::<><><>0<>0<><>::uid://dqwd42h0ej2bl::::res://Scripts/Player_movement.gd<>uid://b2rfcs750rjqh::::res://Assets/Sprites/Zombie Sprite.png
-settings.tscn::PackedScene::7112023411645659348::1749783036::0::1::::<><><>0<>0<><>::
-win_screen.tscn::PackedScene::8497801067635863870::1749782743::0::1::::<><><>0<>0<><>::uid://capecaiob7lkp::::res://Scripts/win_screen.gd
-world.tscn::PackedScene::2464303561122917233::1749782196::0::1::::<><><>0<>0<><>::uid://dvjqy4ndhgabk::::res://Assets/Tilemaps/Final/Background_0.png<>uid://bopg6fg7jdn3e::::res://Scenes/Player.tscn<>uid://b6duoyew7kr8e::::res://Assets/Tilemaps/Final/Tiles.png<>uid://jdrx5rwx71mj::::res://Assets/Tilemaps/Final/Background_1.png<>uid://b1jj21t1h3u3u::::res://Assets/Tilemaps/Final/Grass_background_1.png<>uid://cqmpsxay1g1mw::::res://Assets/Tilemaps/Final/Salt.png<>uid://dmi7rnst8c3vx::::res://Scenes/Light_Lop_Enemy.tscn<>uid://bhyglfh07k1ak::::res://Scenes/death_boundary.tscn
+death_boundary.tscn::PackedScene/PackedScene::2927671875555768098::1749782196::0::1::::<><><>0<>0<><>::uid://dmkjucxpgc0wm::::res://Scripts/death_boundary.gd
+GameOver.tscn::PackedScene/PackedScene::8699543302359708112::1749783036::0::1::::<><><>0<>0<><>::uid://cm8xqvk0fb387::::res://Assets/Sprites/gg.jpg
+Light_Lop_Enemy.tscn::PackedScene/PackedScene::8020017210550595281::1749170124::0::1::::<><><>0<>0<><>::uid://cd2vb5tqpnx8o::::res://Scripts/light_lop_enemy.gd<>uid://b5540ij23hiok::::res://Assets/Sprites/Light Lop Spritesheet Idle.png
+light_post_tall.tscn::PackedScene/PackedScene::6129571605161790111::1749782196::0::1::::<><><>0<>0<><>::uid://p3pr7jj01gi7::::res://Assets/Sprites/lamp_post_sprite.png<>uid://cw0555d4s23pa::::res://Assets/Sprites/lamppost_tall_beam_sprite.png
+menu.tscn::PackedScene/PackedScene::7883297863459623326::1749783036::0::1::::<><><>0<>0<><>::uid://dlce2emaswn5c::::res://Scripts/menu.gd
+options_menu.tscn::PackedScene/PackedScene::3853893359925233428::1749783036::0::1::::<><><>0<>0<><>::
+Player.tscn::PackedScene/PackedScene::3400450095855773336::1749782196::0::1::::<><><>0<>0<><>::uid://dqwd42h0ej2bl::::res://Scripts/Player_movement.gd<>uid://b2rfcs750rjqh::::res://Assets/Sprites/Zombie Sprite.png
+settings.tscn::PackedScene/PackedScene::7112023411645659348::1749783036::0::1::::<><><>0<>0<><>::
+win_screen.tscn::PackedScene/PackedScene::8497801067635863870::1749782743::0::1::::<><><>0<>0<><>::uid://capecaiob7lkp::::res://Scripts/win_screen.gd
+world.tscn::PackedScene/PackedScene::2464303561122917233::1749782196::0::1::::<><><>0<>0<><>::uid://dvjqy4ndhgabk::::res://Assets/Tilemaps/Final/Background_0.png<>uid://bopg6fg7jdn3e::::res://Scenes/Player.tscn<>uid://b6duoyew7kr8e::::res://Assets/Tilemaps/Final/Tiles.png<>uid://jdrx5rwx71mj::::res://Assets/Tilemaps/Final/Background_1.png<>uid://b1jj21t1h3u3u::::res://Assets/Tilemaps/Final/Grass_background_1.png<>uid://cqmpsxay1g1mw::::res://Assets/Tilemaps/Final/Salt.png<>uid://dmi7rnst8c3vx::::res://Scenes/Light_Lop_Enemy.tscn<>uid://bhyglfh07k1ak::::res://Scenes/death_boundary.tscn
 ::res://Scripts/::1749783036
-death_boundary.gd::GDScript::8022754262356145132::1749781479::0::1::::<>Node2D<><>0<>0<><>::
-light_lop_enemy.gd::GDScript::5040424546101252580::1749783036::0::1::::<>CharacterBody2D<><>0<>0<><>::
-menu.gd::GDScript::7935759399668265346::1749783036::0::1::::<>Control<><>0<>0<><>::
-Player_movement.gd::GDScript::8327935228964378497::1749783036::0::1::::<>CharacterBody2D<><>0<>0<><>::
-win_screen.gd::GDScript::4804053486253112799::1749782743::0::1::::<>Control<><>0<>0<><>::
+death_boundary.gd::GDScript/GDScript::8022754262356145132::1749781479::0::1::::<>Node2D<><>0<>0<><>::
+light_lop_enemy.gd::GDScript/GDScript::5040424546101252580::1749783036::0::1::::<>CharacterBody2D<><>0<>0<><>::
+menu.gd::GDScript/GDScript::7935759399668265346::1749783036::0::1::::<>Control<><>0<>0<><>::
+Player_movement.gd::GDScript/GDScript::8327935228964378497::1749783036::0::1::::<>CharacterBody2D<><>0<>0<><>::
+win_screen.gd::GDScript/GDScript::4804053486253112799::1749782743::0::1::::<>Control<><>0<>0<><>::
