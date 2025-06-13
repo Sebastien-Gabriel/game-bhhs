@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cgju8yb6pujb2"
-path="res://.godot/imported/Light Lop Spritesheet Idle.png-c540844d00dfaeedc79586498aaeb540.ctex"
+uid="uid://cw0555d4s23pa"
+path="res://.godot/imported/lamppost_tall_beam_sprite.png-10fd2bea9fb1a3ac82d26a5257023086.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Light Lop Spritesheet Idle.png"
-dest_files=["res://.godot/imported/Light Lop Spritesheet Idle.png-c540844d00dfaeedc79586498aaeb540.ctex"]
+source_file="res://Assets/Sprites/lamppost_tall_beam_sprite.png"
+dest_files=["res://.godot/imported/lamppost_tall_beam_sprite.png-10fd2bea9fb1a3ac82d26a5257023086.ctex"]
 
 [params]
 

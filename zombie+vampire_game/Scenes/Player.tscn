@@ -1,7 +1,7 @@
 [gd_scene load_steps=11 format=3 uid="uid://bopg6fg7jdn3e"]
 
 [ext_resource type="Script" uid="uid://dqwd42h0ej2bl" path="res://Scripts/Player_movement.gd" id="1_ij6vw"]
-[ext_resource type="Texture2D" uid="uid://cup5fsu3fll0b" path="res://Assets/Sprites/Zombie Sprite.png" id="2_kyqiw"]
+[ext_resource type="Texture2D" uid="uid://b2rfcs750rjqh" path="res://Assets/Sprites/Zombie Sprite.png" id="2_kyqiw"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_dewec"]
 atlas = ExtResource("2_kyqiw")
@@ -67,7 +67,7 @@ animations = [{
 radius = 20.0
 height = 108.0
 
-[node name="Player" type="CharacterBody2D"]
+[node name="player" type="CharacterBody2D"]
 script = ExtResource("1_ij6vw")
 
 [node name="Zombie_Idle" type="AnimatedSprite2D" parent="."]
