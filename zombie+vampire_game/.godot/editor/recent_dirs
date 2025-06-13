@@ -1,4 +1,9 @@
 res://Scenes
+<<<<<<< HEAD
+res://Scripts
+res://Assets/Sprites
+=======
 res://Assets/Sprites
 res://Scripts
+>>>>>>> 15a6968c04aa1ea9cfaa8effabc90955a3765c1a
 res://

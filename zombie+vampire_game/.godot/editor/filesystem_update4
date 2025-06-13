@@ -1,6 +1,16 @@
 res://Scenes/world.tscn
+<<<<<<< HEAD
+res://Scripts/light_post_tall.gd
+res://Scenes/menu.tscn
+res://Scenes/light_post_tall.tscn
+res://Scenes/Player.tscn
+res://Scenes/death_boundary.tscn
+res://Scenes/win_screen.tscn
+res://Scripts/win_screen.gd
+=======
 res://Scenes/GameOver.tscn
 res://Scripts/Player_movement.gd
 res://Scripts/light_lop_enemy.gd
 res://Scenes/Light_Lop_Enemy.tscn
 res://Scenes/Player.tscn
+>>>>>>> 15a6968c04aa1ea9cfaa8effabc90955a3765c1a

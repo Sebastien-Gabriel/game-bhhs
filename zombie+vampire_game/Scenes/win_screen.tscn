@@ -1,0 +1,37 @@
+[gd_scene load_steps=3 format=3 uid="uid://dtcnsoulfc35s"]
+
+[ext_resource type="Script" uid="uid://capecaiob7lkp" path="res://Scripts/win_screen.gd" id="1_l5sol"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_j0aiw"]
+font_size = 200
+
+[node name="Win Screen" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -491.0
+offset_top = -41.0
+offset_right = -491.0
+offset_bottom = -41.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_l5sol")
+
+[node name="YOUWIN!" type="Label" parent="."]
+layout_mode = 0
+offset_left = 461.0
+offset_top = 78.0
+offset_right = 1698.0
+offset_bottom = 420.0
+text = "YOU WIN !"
+label_settings = SubResource("LabelSettings_j0aiw")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Restart" type="Button" parent="."]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
+
+[connection signal="pressed" from="Restart" to="." method="_on_restart_pressed"]
