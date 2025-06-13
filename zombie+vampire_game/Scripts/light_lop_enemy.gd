@@ -6,9 +6,13 @@ const DIRECTION_CHANGE_INTERVAL = 1.0 # seconds
 
 var move_direction = 0
 var time_since_direction_change = 0.0
+var player
 
 func _ready():
 	randomize()
+	# Get the player node (or you can set it manually)
+	player = get_node("/root/World/Player/Camera2D") # Update this path if necessary
+
 
 func _physics_process(delta):
 	# Apply gravity
@@ -27,3 +31,8 @@ func _physics_process(delta):
 
 	# Move the character using velocity
 	move_and_slide()
+
+# Called when an area is entered
+func _on_Area2D_body_entered(body):
+	if body.is_in_group("Player"):  # Ensure it collides with the player
+		print("Colliede")
