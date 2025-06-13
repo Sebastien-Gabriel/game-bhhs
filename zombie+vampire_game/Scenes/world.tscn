@@ -7,7 +7,7 @@
 [ext_resource type="Texture2D" uid="uid://b1jj21t1h3u3u" path="res://Assets/Tilemaps/Final/Grass_background_1.png" id="4_fo5ed"]
 [ext_resource type="Texture2D" uid="uid://cqmpsxay1g1mw" path="res://Assets/Tilemaps/Final/Salt.png" id="5_5ukr8"]
 [ext_resource type="PackedScene" uid="uid://dmi7rnst8c3vx" path="res://Scenes/Light_Lop_Enemy.tscn" id="7_o06y3"]
-[ext_resource type="PackedScene" uid="uid://ctlhfcaiv48v0" path="res://Scenes/light_post_tall.tscn" id="8_k7acu"]
+[ext_resource type="PackedScene" path="res://Scenes/light_post_tall.tscn" id="8_k7acu"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_5ukr8"]
 texture = ExtResource("4_fo5ed")
