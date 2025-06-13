@@ -1,6 +1,6 @@
-[gd_scene format=3 uid="uid://bu54cca6mkxce"]
+[gd_scene format=3 uid="uid://c8ld8sn2cjxsm"]
 
-[node name="Options Menu" type="Control"]
+[node name="Settings" type="Control"]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0

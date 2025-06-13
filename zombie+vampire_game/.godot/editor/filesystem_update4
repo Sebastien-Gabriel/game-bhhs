@@ -1,3 +1,5 @@
 res://Scenes/world.tscn
-res://Scenes/menu.tscn
-res://Scripts/menu.gd
+res://Scenes/GameOver.tscn
+res://Scripts/Player_movement.gd
+res://Scripts/light_lop_enemy.gd
+res://Scenes/Light_Lop_Enemy.tscn
